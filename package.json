@@ -1,0 +1,8 @@
+{
+  "name": "newyearfirework",
+  "version": "0.0.0",
+  "devDependencies": {
+    "wrangler": "2.8.0"
+  },
+  "private": true
+}
